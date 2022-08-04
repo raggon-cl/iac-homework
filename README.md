@@ -1,23 +1,4 @@
-# Trabajo final Curso Infraestructura como Codigo y Cloud Computing
-
-## Acuerdos
-
-La tarea final del curso consiste en completar las tareas listadas mas abajo, en
-base al codigo fuente hosteado en este repositorio.
-
-La entrega puede ser de cualquiera de las siguientes formas:
-  - A traves de un repositorio Git propio (publico en Gitlab, Github, ...),
-  - A traves de un _fork_ de este repositorio,
-  - A traves de un Merge/Pull request en este repositorio, o
-  - A traves de un modulo terraform (indicando repositorio del codigo fuente).
-
-Cualquier alternativa de arriba tendra la misma calificacion, la cual es que un
-desarrollador entienda que se esta haciendo 😉 Dado esto, trata de explicar lo
-mejor posible tu solucion (usar un documento `.md` es un excelente ejemplo).
-
-Bonus: tendras puntos a favor si entregas un codigo bien formateado y revisado
-previamente en terminos de calidad de codigo. Recuerda que hay herramientas que
-pueden ayudarte con esto. Es posible que el codigo base sea mejorable.
+# Deploy AWS/Terraform (VPC, EC2 y ELB)
 
 ## Desafio
 
